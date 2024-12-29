@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/zyc/zycProg/cpp/_data_structure/PJ/osm_backend/build",
+  "command": "D:\\zyc\\zycTool\\mingw64\\mingw64\\bin\\g++.exe  @CMakeFiles/pugixml.dir/includes_CXX.rsp  -g -g -o CMakeFiles\\pugixml.dir\\pugixml.cpp.obj -c D:\\zyc\\zycProg\\cpp\\_data_structure\\PJ\\osm_backend\\pugixml.cpp",
+  "file": "D:/zyc/zycProg/cpp/_data_structure/PJ/osm_backend/pugixml.cpp",
+  "output": "CMakeFiles/pugixml.dir/pugixml.cpp.obj"
+},
+{
+  "directory": "D:/zyc/zycProg/cpp/_data_structure/PJ/osm_backend/build",
+  "command": "D:\\zyc\\zycTool\\mingw64\\mingw64\\bin\\g++.exe  @CMakeFiles/graph.dir/includes_CXX.rsp  -g -g -o CMakeFiles\\graph.dir\\graph.cpp.obj -c D:\\zyc\\zycProg\\cpp\\_data_structure\\PJ\\osm_backend\\graph.cpp",
+  "file": "D:/zyc/zycProg/cpp/_data_structure/PJ/osm_backend/graph.cpp",
+  "output": "CMakeFiles/graph.dir/graph.cpp.obj"
+},
+{
+  "directory": "D:/zyc/zycProg/cpp/_data_structure/PJ/osm_backend/build",
+  "command": "D:\\zyc\\zycTool\\mingw64\\mingw64\\bin\\g++.exe  @CMakeFiles/osm_pugixml.dir/includes_CXX.rsp  -g -g -o CMakeFiles\\osm_pugixml.dir\\xml_convert_pugi.cpp.obj -c D:\\zyc\\zycProg\\cpp\\_data_structure\\PJ\\osm_backend\\xml_convert_pugi.cpp",
+  "file": "D:/zyc/zycProg/cpp/_data_structure/PJ/osm_backend/xml_convert_pugi.cpp",
+  "output": "CMakeFiles/osm_pugixml.dir/xml_convert_pugi.cpp.obj"
+}
+]

@@ -1,0 +1,2 @@
+D:\zyc\zycTool\mingw64\mingw64\bin\ar.exe qc libpugixml.a CMakeFiles/pugixml.dir/pugixml.cpp.obj
+D:\zyc\zycTool\mingw64\mingw64\bin\ranlib.exe libpugixml.a

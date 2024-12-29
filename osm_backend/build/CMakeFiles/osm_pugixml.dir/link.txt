@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\osm_pugixml.dir/objects.a
+D:\zyc\zycTool\mingw64\mingw64\bin\ar.exe qc CMakeFiles\osm_pugixml.dir/objects.a @CMakeFiles\osm_pugixml.dir\objects1.rsp
+D:\zyc\zycTool\mingw64\mingw64\bin\g++.exe  -g -g -Wl,--whole-archive CMakeFiles\osm_pugixml.dir/objects.a -Wl,--no-whole-archive -o osm_pugixml.exe -Wl,--out-implib,libosm_pugixml.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\osm_pugixml.dir\linkLibs.rsp

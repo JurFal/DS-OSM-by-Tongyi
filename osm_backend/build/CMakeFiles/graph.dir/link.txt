@@ -1,0 +1,2 @@
+D:\zyc\zycTool\mingw64\mingw64\bin\ar.exe qc libgraph.a CMakeFiles/graph.dir/graph.cpp.obj
+D:\zyc\zycTool\mingw64\mingw64\bin\ranlib.exe libgraph.a

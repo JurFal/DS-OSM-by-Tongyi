@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "leaflet": "^1.9.4",
+    "lodash": "^4.17.21",
+    "vue2-leaflet": "^2.7.1",
+    "xml2js": "^0.6.2"
+  }
+}
